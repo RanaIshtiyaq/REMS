@@ -1,0 +1,52 @@
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\bin\Debug\Real Estate Management System.exe.config
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\bin\Debug\Real Estate Management System.exe
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\bin\Debug\Real Estate Management System.pdb
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.loginForm.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.Properties.Resources.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real Estate Management System.csproj.GenerateResource.Cache
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real Estate Management System.exe
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real Estate Management System.pdb
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.landRegForm.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.bungalowRegForm.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.houseRegForm.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.sellerRegForm.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.Buyers.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.propertiesCat.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.Dashbord.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.viewBung.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.viewHouse.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.viewLand.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.Reports.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.viewProperties.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.propRegForm.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.textboxcustom.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.golButton.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.RundUserControl.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.roundText.resources
+E:\MCS Data\C# Projects\Real Estate Management System\Real Estate Management System\obj\Debug\Real Estate Management System.csprojResolveAssemblyReference.cache
+E:\Real Estate Management System\Real Estate Management System\bin\Debug\Real Estate Management System.exe.config
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real Estate Management System.exe
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real Estate Management System.pdb
+E:\Real Estate Management System\Real Estate Management System\bin\Debug\Real Estate Management System.exe
+E:\Real Estate Management System\Real Estate Management System\bin\Debug\Real Estate Management System.pdb
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.bungalowRegForm.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.Dashbord.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.loginForm.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.golButton.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.houseRegForm.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.landRegForm.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.propertiesCat.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.Properties.Resources.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.Reports.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.roundText.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.RundUserControl.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.sellerRegForm.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.propRegForm.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.textboxcustom.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.Buyers.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.viewBung.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.viewHouse.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.viewLand.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real_Estate_Management_System.viewProperties.resources
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real Estate Management System.csproj.GenerateResource.Cache
+E:\Real Estate Management System\Real Estate Management System\obj\Debug\Real Estate Management System.csprojResolveAssemblyReference.cache
